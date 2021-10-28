@@ -1,1 +1,2 @@
 # Project3-draw-game
+During Easter Sale, a retailer can use this software to create a lucky draw game. In the game, a customer is given entries equivalent to the size of its purchase after their single-purchase final balance, after discounts, reach a specific amount. Once the competition time ends, the retailer draws winners and the winning customers will get points added to their membership account; customers can use these points for future purchases if they wish.
